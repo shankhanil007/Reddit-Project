@@ -58,5 +58,4 @@ The data, a pickle file containing 1,205,039 rows (comments) that occurred in Ma
 After selecting data features, we used four supervised learning techniques in order to attempt to learn the relationship between these features and the ultimate score of a comment.
   * Decision Trees
   * Random Forest
-  * Multinomial Logistic Regression
   * k-Nearest Neighbors
