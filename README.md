@@ -61,5 +61,5 @@ After selecting data features, we used four supervised learning techniques in or
   * k-Nearest Neighbors
 
 ## Results
-![](MAE_Comparision.JPG)
-![](RMSE_Comparision.JPG)
+![](Images/MAE_Comparision.PNG)
+![](Images/RMSE_Comparision.PNG)
